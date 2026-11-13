@@ -1,0 +1,21 @@
+# секреты
+.env
+.env.*
+*.pem
+*.key
+secrets*
+
+# питон и редакторы
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# локальные наборы задач, утилиты, заметки и результаты прогонов, в сдачу не входят
+docs/
+runs/
+logs/

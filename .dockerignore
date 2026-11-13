@@ -1,0 +1,13 @@
+.git
+.gitignore
+.dockerignore
+openJiuwen/
+runs/
+123.txt
+**/__pycache__
+**/*.pyc
+**/.env
+**/.env.*
+local_tasks/
+logs/
+docs/

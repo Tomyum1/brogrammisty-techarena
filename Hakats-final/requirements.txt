@@ -1,0 +1,7 @@
+# харнесс: JiuwenSwarm поверх SDK агентов openJiuwen
+openjiuwen==0.1.16
+jiuwenswarm==0.2.3
+# OpenAI-совместимый клиент, через который ходит openJiuwen
+openai==3.42.1
+# корневые сертификаты для клиента openJiuwen, их напрямую берёт harness/llm.py
+certifi==2026.10.23
